@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS: World of Living Puzzles",
+  "description": "Restore a dying artificial civilization by manipulating energy, water, gravity, time, matter, and information alongside an evolving AI companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
